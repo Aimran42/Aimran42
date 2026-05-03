@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 1337 Profile
+##  1337 Profile
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/momahdam">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 
 - 🔐 Student Portal (React + PHP + MySQL)  
 - 🌐 Business Websites (WordPress + SEO)  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🎯 Focus
+##  Focus
 
 - Cybersecurity  
 - Full-Stack Development / DevSecOps  
@@ -50,7 +50,7 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <p align="center">
   <a href="mailto:aimrancs0@gmail.com">
