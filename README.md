@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![momahdam's 42 stats](https://badge.mediaplus.ma/binary/momahdam)](https://github.com/oakoudad/badge42)
 <!--
 **Aimran42/Aimran42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
