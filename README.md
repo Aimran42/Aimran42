@@ -31,39 +31,6 @@
 
 ---
 
-##  Projects
-
-- 🔐 Student Portal (React + PHP + MySQL)  
-- 🌐 Business Websites (WordPress + SEO)  
-- 🎮 C++ / Python Games  
-- 🛡️ Security Testing & Web Analysis  
-- ⚙️ Python Scripts (Automation / Security Tools)  
-
----
-
-##  Focus
-
-- Cybersecurity  
-- Full-Stack Development / DevSecOps  
-- Data & BI  
-- Real-world Projects  
-- Problem Solving  
-
----
-
-##  Contact
-
-<p align="center">
-  <a href="mailto:aimrancs0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-amin-mahdam-b39a862a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   ⚡ "Build. Break. Secure. Repeat."
 </p>
