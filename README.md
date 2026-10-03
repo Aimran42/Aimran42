@@ -30,9 +30,6 @@ Hi, I'm M.Mahdam
 </p>
 
 ---
-
-## 👾 My Contribution Graph
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aimran42/Aimran42/output/pacman-contribution-graph-dark.svg">
