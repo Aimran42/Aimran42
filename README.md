@@ -10,10 +10,9 @@ Hi there, I'm M.Mahdam
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/momahdam">
-    <img src="https://badge.mediaplus.ma/binary/momahdam" />
+    <img src="https://badge.mediaplus.ma/black/momahdam" alt="momahdam's 42 stats" />
   </a>
 </p>
-
 ---
 
 
